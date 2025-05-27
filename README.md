@@ -1,6 +1,6 @@
 ## Core Analysis Tools
 
-### 1. Advanced Fractal Market Analysis (`fractal_market_analysis`)
+### 1. Fractal Market Analysis (`fractal_market_analysis`)
 - **Multi-timeframe fractal analysis** (daily + weekly patterns)
 - **Support/resistance level identification** with strength scoring
 - **Market structure determination** (uptrend, downtrend, consolidation)
